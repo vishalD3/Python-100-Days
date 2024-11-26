@@ -1,0 +1,2 @@
+new text has been entered.text has been apended
+ text has been apended

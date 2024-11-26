@@ -1,0 +1,4 @@
+google | abc@gmail.com | Qwerty 
+Amazom | abc@gmail.com | asdad 
+amazom2 | abc@gmail.com | qwerty 
+facebook | abc@gmail.com | test123 
